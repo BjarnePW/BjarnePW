@@ -9,12 +9,10 @@
 - ⚡ Fun fact: nothing xD
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&theme=merko&langs_count=10&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&theme=tokyonight&langs_count=10&layout=compact"/>
 </p>
-<p algin="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BjarnePW&theme=merko"/>
-</p
+
