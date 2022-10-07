@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Discord Bot
-- 🌱 I’m currently learning C#  
-- 👯 I’m looking to collaborate on anything intresting
-- 🤔 I’m looking for help with some Py issues
-- 💬 Ask me about Website developing
-- 📫 How to reach me: DISCORD: BjarnePW#0645
-- 😄 Pronouns: he/him; they/them
+- 🔭 I’m currently working on: my Discord Bot
+- 🌱 I’m currently learning: C# 
+- 👯 I’m looking to collaborate on: anything intresting
+- 🤔 I’m looking for help with: some Py and Js issues
+- 💬 Ask me about Website: developing
+- 📫 How to reach me: DISCORD [BjarnePW#0645]
+- 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: nothing xD
 
 <p align="center">
