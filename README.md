@@ -1,3 +1,5 @@
+```css
+    *{background: #30243c; }
 ### Hi there 👋
 - 🔭 I’m currently working on: my Discord Bot
 - 🌱 I’m currently learning: C# 
