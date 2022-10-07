@@ -1,6 +1,3 @@
-```css
-    *{background: #30243c; }
-```
 ### Hi there 👋
 - 🔭 I’m currently working on: my Discord Bot
 - 🌱 I’m currently learning: C# 
@@ -11,11 +8,10 @@
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: nothing xD
 
-<p align="center">
+<p align="center" background="#30243c">
     <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=synthwave"/>
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&theme=synthwave&langs_count=10&layout=compact"/>
 </p>
-
