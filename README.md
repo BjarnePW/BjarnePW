@@ -8,4 +8,10 @@
 - 😄 Pronouns: he/him; they/them
 - ⚡ Fun fact: nothing xD
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&theme=dark&langs_count=10&layout=compact")
+</p>
