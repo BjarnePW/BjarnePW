@@ -6,7 +6,7 @@
 - 💬 Ask me about: Website developing
 - 📫 How to reach me: DISCORD [BjarnePW#0645]
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: i am making music w friends ^^ [Soundcloud - old stuff](https://soundcloud.com/catgroup) | [Spotify](https://open.spotify.com/artist/0RGZIugL3Q7RIxstxJZtIC)
+- ⚡ Fun Fact: i am making music w friends ^^ [Spotify](https://open.spotify.com/artist/0RGZIugL3Q7RIxstxJZtIC) | [Soundcloud - old stuff](https://soundcloud.com/catgroup) 
 
 <p align="center" background="#30243c">
     <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=synthwave"/>
