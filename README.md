@@ -10,6 +10,6 @@
 
 <p align="center" background="#30243c">
     <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=synthwave"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&layout=donut-vertical&theme=synthwave">
 </p>
 
