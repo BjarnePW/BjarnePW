@@ -10,6 +10,7 @@
 
 <p align="center" background="#30243c">
     <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=synthwave"/>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&layout=donut-vertical&theme=synthwave">
 </p>
 
