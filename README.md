@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on: anything intresting
 - 🤔 I’m looking for help with: some Py and Js issues
 - 💬 Ask me about: Website developing
-- 📫 How to reach me: DISCORD [BjarnePW#0645]
-- 😄 Pronouns: he/him, they/them
+- 📫 How to reach me: IG, Discord - @bjarnepw 
+- 😄 Pronouns: he/him
 - ⚡ Fun Fact: i am making music w friends ^^ [YouTube](https://youtube.com/@anxy-music) | [Instagram](https://instagram.com/anxymusic) 
 
 <p align="center" background="#30243c">
