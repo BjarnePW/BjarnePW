@@ -12,6 +12,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=BjarnePW&show_icons=true&theme=synthwave"/>
 </p>
 
-<p algin="center" background="#30243c">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&langs_count=8&theme=sznthwave&layout=donut-vertical">
+<p align="center" background="#30243c">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjarnePW&langs_count=8&theme=synthwave&layout=donut-vertical">
 </p>
