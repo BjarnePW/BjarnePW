@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: some crazy stuff
-- 🌱 I’m currently learning: C# 
+- 🌱 I’m currently learning: C#, Java, Kotlin, Dart
 - 👯 I’m looking to collaborate on: anything intresting
 - 🤔 I’m looking for help with: some Py and Js issues
 - 💬 Ask me about: Website developing
